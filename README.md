@@ -120,15 +120,16 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-	
-<p align="center">
-    <a href="https://github.com/vishnunishad/github-readme-stats">
-	    <img alt="vishnu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnunishad&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnunishad&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="vishnu" height="230px"/>
-<br/>
 
+<p align="center">
+    <img alt="vishnu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnunishad&show_icons=true&count_private=true&locale=en&theme=tokyonight" width="48%"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnunishad&langs_count=8&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+</p>
+
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
