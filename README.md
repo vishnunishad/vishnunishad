@@ -107,33 +107,17 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## 📊 Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishnunishad&theme=tokyonight_duo&hide_border=true)
 
-----	
+### 💻 GitHub Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnunishad&show_icons=true&count_private=true&theme=tokyonight&border_radius=10)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnunishad&theme=tokyonight_duo" alt="vishnunishad" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vishnunishad&layout=compact&theme=tokyonight&border_radius=10)
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnunishad&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnunishad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-</details>
+**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
