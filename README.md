@@ -121,10 +121,13 @@
 
 ----
 
-<p align="center">
-    <img alt="vishnu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishnunishad&show_icons=true&count_private=true&locale=en&theme=tokyonight" width="48%"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnunishad&langs_count=8&theme=tokyonight" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnunishad&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnunishad&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 <p align="center">
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
