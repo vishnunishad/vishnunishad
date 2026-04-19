@@ -18,8 +18,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Web Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://portfolio-la4ysopkx-vishnunishad.vercel.app).
-- :boom: You can visit [MY WEBSITE]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :boom: You can visit [MY WEBSITE](https://portfolio-la4ysopkx-vishnunishad.vercel.app).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
